@@ -1,0 +1,14 @@
+2020-06-05T22:30:21.836: Application launched.
+2020-06-05T22:30:24.257: json load OK
+2020-06-05T22:30:24.388: pdf init OK
+2020-06-05T22:30:24.625: background set page 1
+2020-06-05T22:30:24.641: typography done page 1
+2020-06-05T22:30:24.643: pdf export success 1 of 3
+2020-06-05T22:30:24.731: background set page 2
+2020-06-05T22:30:24.732: typography done page 2
+2020-06-05T22:30:24.733: pdf export success 2 of 3
+2020-06-05T22:30:24.802: background set page 3
+2020-06-05T22:30:24.803: typography done page 3
+2020-06-05T22:30:24.803: pdf export success 3 of 3
+2020-06-05T22:30:24.806: successfully close output pdf file
+2020-06-05T22:30:24.807: exit program
